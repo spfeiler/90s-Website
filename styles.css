@@ -1,0 +1,180 @@
+html {
+    font-family: 'Oswald', sans-serif;
+}
+
+body.home-page {
+  background-image: url("bunny.gif");
+  background-repeat: repeat;
+  background-size: 17%;
+}
+
+p.home {
+  text-decoration: none;
+  text-align: center;
+  list-style-type: none;
+  font-size: 25px;
+  background-color: white;
+  border-style: solid;
+  border-width: 10px;
+  border-color: black;
+  box-shadow: 0px 0px 50px 0px black;
+  margin: 25px 500px 25px 500px;
+  padding: 25px 25px 25px 25px;
+}
+
+h1.home-page {
+  font-size: 76px;
+  text-align: center;
+  color: black;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  background-color: white;
+  border-style: solid;
+  border-width: 10px;
+  border-color: black;
+  box-shadow: 0px 0px 50px 0px black;
+  margin: 25px 500px 25px 500px;
+  padding: 25px 25px 25px 25px;
+}
+
+ul.home-page {
+  text-decoration: none;
+  text-align: center;
+  list-style-type: none;
+  font-size: 50px;
+  background-color: white;
+  border-style: solid;
+  border-width: 10px;
+  border-color: black;
+  box-shadow: 0px 0px 50px 0px black;
+  margin: 25px 500px 25px 500px;
+  padding: 25px 25px 25px 25px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+body.about-me {
+  background-image: url("bunny.gif");
+  background-size: 17%;
+}
+
+h1.about-me {
+  font-size: 86px;
+  text-align: center;
+  color: black;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  background-color: white;
+  border-style: solid;
+  border-width: 10px;
+  border-color: black;
+  box-shadow: 0px 0px 50px 0px black;
+  margin: 25px 500px 25px 500px;
+  padding: 25px 25px 25px 25px;
+}
+
+p.about-me {
+  text-align: center;
+  font-size: 25px;
+  background-color: white;
+  border-style: solid;
+  border-width: 10px;
+  border-color: black;
+  box-shadow: 0px 0px 50px 0px black;
+  margin: 25px 500px 25px 500px;
+  padding: 25px 25px 25px 25px;
+}
+
+body.my-dog {
+  background-image: url("bunny.gif");
+  background-size: 17%;
+}
+
+h1.my-dog {
+  font-size: 86px;
+  text-align: center;
+  color: black;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  background-color: white;
+  border-style: solid;
+  border-width: 10px;
+  border-color: black;
+  box-shadow: 0px 0px 50px 0px black;
+  margin: 25px 500px 25px 500px;
+  padding: 25px 25px 25px 25px;
+}
+
+img.my-dog {
+  background-color: white;
+  border-style: solid;
+  border-width: 10px;
+  border-color: black;
+  box-shadow: 0px 0px 50px 0px black;
+  margin: 25px 400px 25px 400px;
+  padding: 25px 25px 25px 25px;
+}
+
+body.my-hobbies {
+  background-image: url("bunny.gif");
+  background-size: 17%;
+}
+
+h1.my-hobbies {
+  font-size: 74px;
+  text-align: center;
+  color: black;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  background-color: white;
+  border-style: solid;
+  border-width: 10px;
+  border-color: black;
+  box-shadow: 0px 0px 50px 0px black;
+  margin: 25px 500px 25px 500px;
+  padding: 25px 25px 25px 25px;
+}
+
+ul.my-hobbies {
+  text-align: center;
+  list-style-type: none;
+  font-size: 28px;
+  background-color: white;
+  border-style: solid;
+  border-width: 10px;
+  border-color: black;
+  box-shadow: 0px 0px 50px 0px black;
+  margin: 25px 500px 25px 500px;
+  padding: 25px 25px 25px 25px;
+}
+
+body.my-favorites {
+  background-image: url("bunny.gif");
+  background-size: 17%;
+}
+
+h1.my-favorites {
+  font-size: 74px;
+  text-align: center;
+  color: black;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  background-color: white;
+  border-style: solid;
+  border-width: 10px;
+  border-color: black;
+  box-shadow: 0px 0px 50px 0px black;
+  margin: 25px 500px 25px 500px;
+  padding: 25px 25px 25px 25px;
+}
+
+ul.my-favorites {
+  text-align: center;
+  list-style-type: none;
+  font-size: 28px;
+  background-color: white;
+  border-style: solid;
+  border-width: 10px;
+  border-color: black;
+  box-shadow: 0px 0px 50px 0px black;
+  margin: 25px 500px 25px 500px;
+  padding: 25px 25px 25px 25px;
+}
